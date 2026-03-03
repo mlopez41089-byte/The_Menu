@@ -5,4 +5,5 @@ The purpose of this project is to help eliminate food waste and reduce overall g
 
 
 [Link To Site] (https://mlopez41089-byte.github.io/The_Menu/)
+
 [Supporting Documents] (docs/)
