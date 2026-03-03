@@ -1,0 +1,6 @@
+### What Went Well
+Overall, I feel as if the more I was adding my HTML files the more comfortable I was getting with the style of code especially when implementing the style changes with CSS. Being able to see my work grow in fruition made me want to keep adding elements and changing little things within the site. As it went on and on, I felt more and more confident in my abilities.  
+### What Went Wrong
+When things would get hard or I did not understand what was being asked of me I would take breaks and just procrastinate over and over again till the due date got closer and closer. This caused me to finalize the project after the date it was due, which could have easily been fixed if I had just taken the time to focus on what was actually being asked for each aspect.
+### What I Would Do Differently
+I would have started the project earlier so that way when I was stuck on a concept I could have just reached out to my instructor for assistance or explanation but being that I started so late I felt too embarrassed to reach out. With that additional time not only would I have been able to get the project turned in on time but I would have had more time to polish the site to make it look even more professional.

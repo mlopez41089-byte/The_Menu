@@ -36,7 +36,7 @@ The project is due by March 2, 2026\.
 
 ## Quality 
 
-## The project needs to have a completed two page site accessible in a single GitHub repository with planning documentation that meets all requirements.
+The project needs to have a completed two page site accessible in a single GitHub repository with planning documentation that meets all requirements.
 
 ## Acceptable Criteria
 
