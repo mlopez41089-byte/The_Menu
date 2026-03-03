@@ -1,3 +1,8 @@
 # The Menu
 ## Project Purpose 
-The Purpose of this project is to 
+The purpose of this project is to help eliminate food waste and reduce overall grocery cost by creating a website that provides individuals with meal ideas for the whole week utilizing as many of the same ingredients as possible. The website will allow the user to select their choice in cuisine or ingredient to center their weekly meals around then provide a Grocery list and different recipes for each day utilizing as many of the same ingredients as possible. 
+
+
+
+[Link To Site] (https://mlopez41089-byte.github.io/The_Menu/)
+[Supporting Documents] (docs/)
